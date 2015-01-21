@@ -1,6 +1,6 @@
 # Coursera_Getting-and-Cleaning-Data-Project
 
-Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
+Repo for the Coursera Getting and Cleaning Data Project.
 
 ### Overview
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
